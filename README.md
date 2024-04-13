@@ -1,2 +1,2 @@
 # img-gen-algo
-Generate imges using genetic algorithm
+Recreate images using genetic algorithm
